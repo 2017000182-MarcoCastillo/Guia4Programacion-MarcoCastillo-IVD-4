@@ -24,6 +24,6 @@ Algoritmo sin_titulo
         FinSi
     FinPara
 	
-    Escribir "Cantidad de números primos: ", contador
-    Escribir "Suma de los números primos: ", suma
+    Escribir "Cantidad de nÃºmeros primos: ", contador
+    Escribir "Suma de los nÃºmeros primos: ", suma
 FinAlgoritmo
